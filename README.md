@@ -26,4 +26,19 @@ Command: composer require tymon/jwt-auth
 Generate a secret key by executing the following command:
 php artisan jwt:secret
 
+## Run laravel
+php artisan serve
+
+## Admin account
+
+To add a user admin account, you have to run seeders 
+
+- php artisan db:seed --class=UserSeeder
+- php artisan migrate
+
+### Admin login access:
+
+Email: admin@blog.com
+password: secret
+
 
