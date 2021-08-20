@@ -9,12 +9,10 @@
 
 ## Requirements
 
-- Node
-- NPM
+
 - Composer
 - Laravel (PHP Framework)
 - MAMP or XAMPP
-- Angular
 - IDE or Code Editor
 
 ## Install & Configure JWT Authentication Package
